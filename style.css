@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+    border:3px solid brown;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    font-size: 30px;
+    text-align: center;
+}
+
+.nun{
+    background-color: aqua;
+    font-size: 20px;
+}
